@@ -9,5 +9,3 @@ The application features a responsive UI that displays the ping results in real-
 PingATARv1 is a valuable tool for network administrators and IT professionals who need to monitor the health and availability of multiple hosts on a network. With its customizable settings and intuitive interface, PingATARv1 provides an efficient and effective solution for network monitoring.
 
 The source code for PingATAR is available on GitHub, making it easy for developers to contribute to the project or customize the application to meet their specific needs. The application can be easily downloaded and installed on Windows machines, making it accessible to a wide range of users.
-
-In summary, PingATAR is a powerful and
