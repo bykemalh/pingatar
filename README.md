@@ -27,11 +27,11 @@ PingATAR, Kemal Hafızoğlu tarafından geliştirilmiştir. Daha fazla bilgi iç
 1. En son sürümü [Releases](https://github.com/bykemalh/pingatar/releases) sayfasından indirin.
 2. İndirilen .AppImage dosyasını çalıştırılabilir yapın:
    ```
-   chmod +x PingATAR-x.x.x.AppImage
+   chmod +x PingATAR-Linux
    ```
 3. AppImage'i çalıştırın:
    ```
-   ./PingATAR-x.x.x.AppImage
+   ./PingATAR-Linux
    ```
 
 ## Kullanım
@@ -55,7 +55,7 @@ Bu proje GNU General Public License v3.0 altında lisanslanmıştır. Detaylar i
 
 ## İletişim
 
-Kemal Hafızoğlu - [@bykemalh](https://twitter.com/bykemalh) - info@bykemalh.me
+Kemal Hafızoğlu - info@bykemalh.me
 
 Proje Linki: [https://github.com/bykemalh/pingatar](https://github.com/bykemalh/pingatar)
 
